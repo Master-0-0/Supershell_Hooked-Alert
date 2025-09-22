@@ -6,7 +6,9 @@
 原理：创建独立会话，即使断开连接，会话仍保留在后台。<br>
 ```screen -S mysession  # 创建新会话
 python3 your_script.py  # 运行程序
-Ctrl+A → D            # 分离会话（程序继续运行）```<br>
+Ctrl+A → D            # 分离会话（程序继续运行）
+
+
 退出后ps aux 查看进程 是否有脚本运行<br>
 恢复会话：  screen -r mysession  # 重新连接<br>
 
