@@ -1,3 +1,6 @@
+## 前言
+使用supershell 钓鱼没有提醒导致错过了很多点，该脚本监控日志是否有webhook关键字然后发QQ邮箱通知实现上线提醒
+
 ## 使用方法
 <img width="1204" height="560" alt="1" src="https://github.com/user-attachments/assets/4d9c3e76-e1d2-4187-9184-0bad6d526085" /><br>
 <img width="1685" height="438" alt="2" src="https://github.com/user-attachments/assets/461b2ebb-3b27-49f5-8a89-306c273261a6" /><br>
