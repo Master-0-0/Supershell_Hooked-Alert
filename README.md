@@ -7,12 +7,13 @@
 ```screen -S mysession  # 创建新会话
 python3 your_script.py  # 运行程序
 Ctrl+A → D            # 分离会话（程序继续运行）
+```
 
 
 退出后ps aux 查看进程 是否有脚本运行<br>
 恢复会话：  screen -r mysession  # 重新连接<br>
 
-###微信&QQ启用邮箱提醒
+## 微信&QQ启用邮箱提醒
 https://mp.weixin.qq.com/s/cGjlGYaEdfj79JXyMMliTg
 
 
